@@ -1,0 +1,18 @@
+{
+    "Version": "2008-10-17",
+    "Statement": [
+        {
+            "Sid": "AllowOnlyAccountAccess",
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::433289389471:root"
+            },
+            "Action": [
+                "s3:PutObject",
+                "s3:GetObject",
+                "s3:DeleteObject"
+            ],
+            "Resource": "arn:aws:s3:::dvsa-feedback-bucket-433289389471-us-east-1/*"
+        }
+    ]
+}
