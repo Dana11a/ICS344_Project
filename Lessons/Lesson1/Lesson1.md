@@ -48,7 +48,6 @@ After applying the fix:
 * `fixed-code/`: patched code
 * `exploit/`: attack commands
 * `screenshots/`: proof of attack and fix
-* `report/`: final report
 
 ## How to Reproduce
 
