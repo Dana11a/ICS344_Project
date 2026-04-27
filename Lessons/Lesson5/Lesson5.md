@@ -191,7 +191,7 @@ screenshots/
 
 ---
 
-## ▶Reproduction Steps
+## Reproduction Steps
 
 1. Deploy DVSA environment
 2. Create a normal order
