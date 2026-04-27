@@ -1,6 +1,3 @@
-Here is your **Lesson 6 README (same style, ready to copy)** 👇
-
----
 
 # ICS344_Project
 

@@ -36,7 +36,7 @@ The `node-serialize` library:
 * Executes code marked with `$$ND_FUNC$$`
 * Does not validate input
 
-👉 This allows attackers to inject and execute JavaScript during request processing.
+ This allows attackers to inject and execute JavaScript during request processing.
 
 ---
 
