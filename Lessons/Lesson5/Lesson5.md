@@ -82,9 +82,9 @@ curl -X POST "https://82gs6ao5w2.execute-api.us-east-1.amazonaws.com/Stage/order
 | Before | Order status = `processed` |
 | After  | Order status = `paid`      |
 
-✔ Confirms code execution
-✔ Confirms admin function invocation
-✔ Confirms broken access control
+Confirms code execution
+Confirms admin function invocation
+Confirms broken access control
 
 ---
 
@@ -134,8 +134,8 @@ if (event.body.includes("_$$ND_FUNC$$_")) {
   ```
 * Order status remains unchanged
 
-✔ Vulnerability successfully mitigated
-✔ Application functionality preserved
+Vulnerability successfully mitigated
+Application functionality preserved
 
 ---
 
