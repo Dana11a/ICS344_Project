@@ -115,19 +115,37 @@ Each lesson focuses on a **real-world security issue**, including:
 ## Project Structure
 
 ```
-Lessons/
+ICS344_PROJECT/
 │
-├── Lesson1/
-│   ├── exploit/
-│   ├── vulnerable-code/
-│   ├── fixed-code/
-│   ├── screenshots/
-│   └── Lesson1.md
+├── Lessons/
+│   ├── Lesson1/
+│   │   ├── exploit/
+│   │   ├── vulnerable-code/
+│   │   ├── fixed-code/
+│   │   ├── screenshots/
+│   │   ├── slides/
+│   │   └── Lesson1.md
+│   │
+│   ├── Lesson2/
+│   ├── Lesson3/
+│   ├── Lesson4/
+│   ├── Lesson5/
+│   ├── Lesson6/
+│   ├── Lesson7/
+│   ├── Lesson8/
+│   ├── Lesson9/
+│   └── Lesson10/
 │
-├── Lesson2/
-├── Lesson3/
-├── ...
-├── Lesson10/
+├── Presentation-Slides/
+│   └── Presentation-Slides.ppx
+│
+├── DemoVideoRecording/
+│   └── drive-link.txt
+│
+├── Report/
+│   └── ICS344-Project-Report.pdf
+│
+└── README.md
 ```
 
 ---
