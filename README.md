@@ -182,6 +182,6 @@ ICS344_PROJECT/
 ## Course
 
 ICS 344 – Information Security
-KFUPM – Spring 2026
+ – Spring 2026
 
 ---
