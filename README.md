@@ -137,7 +137,7 @@ ICS344_PROJECT/
 │   └── Lesson10/
 │
 ├── Presentation-Slides/
-│   └── Presentation-Slides.ppx
+│   └──DVSA-Presentation.pdf
 │
 ├── DemoVideoRecording/
 │   └── drive-link.txt
